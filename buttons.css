@@ -1,0 +1,27 @@
+h1 {
+  font-family: 'Contrail One', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+body {
+  background-color: #990033;
+  font-family: 'Bad script', cursive;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+button {
+  margin: 10px;
+}
+
+#box1 {
+  border: 5px black;
+  height: 300px;
+  weight: 300px;
+  position: absolute;
+  top: 500px;
+  right:500px;
+
+}
